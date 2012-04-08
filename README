@@ -1,0 +1,12 @@
+this program is "MBR bootable check,fro GRUB1"
+INFO:root check ok.
+
+INFO:/dev/sda   0xaa55
+INFO:/dev/sda1  0x80
+INFO:JUMP       0x48eb
+INFO:GRUB       0x0203
+#Stage2
+INFO:load       0x2000
+INFO:Secter     0x00000000
+INFO:Segment    0x0202
+
